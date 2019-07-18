@@ -1,2 +1,0 @@
-# Database
-Developed in C++
